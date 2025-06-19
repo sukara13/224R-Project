@@ -36,3 +36,4 @@ RL for LLMs exploration
 2. `hrl_gpt4o_agent.py` (RL + LLM)
 
 
+Worked in collaboration with Ameya Jadhav and Allen Chau
